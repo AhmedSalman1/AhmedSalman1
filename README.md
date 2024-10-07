@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/file/d/1ViHz6hnUXKB9GHnd9HcGvJqzky9sfBgD/view?usp=sharing" target="_blank"><img align="right" src="https://raw.githubusercontent.com/AhmedSalman1/AhmedSalman1/refs/heads/main/img/cv.png" alt="My CV" width="70" ></a>
+<a href="https://drive.google.com/file/d/1eODxWF3pNBkrpQb8Zx2-feWkYE6vkkK7/view?usp=drive_link" target="_blank"><img align="right" src="https://raw.githubusercontent.com/AhmedSalman1/AhmedSalman1/refs/heads/main/img/cv.png" alt="My CV" width="70" ></a>
 
 <h1 align="center">Hi 👋, I'm Ahmed Salman 👨‍💻 Back-End developer</h1>
 
