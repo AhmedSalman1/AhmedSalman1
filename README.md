@@ -54,3 +54,4 @@
 <a href="https://github.com/AhmedSalman1/"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Salman&langs_count=8&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" /></a>
 
 <a href="https://git.io/streak-stats"><img  src="https://github-readme-streak-stats.herokuapp.com?user=AhmedSalman1&theme=github_dark&hide_border=false" alt="GitHub Streak" /></a> -->
+
