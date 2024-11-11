@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salman 👨‍💻 Back-End developer</h1>
 
 <br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedSalman1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AhmedSalman1?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ### Languages and Tools 🛠
 
