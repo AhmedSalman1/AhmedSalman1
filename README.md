@@ -51,6 +51,12 @@
   </a>
 </div>
 
+<hr/>
+
+<div align="center"> 
+<a href="https://github.com/AhmedSalman1/"><img src="https://github-profile-trophy.vercel.app/?username=AhmedSalman1&theme=monokai&row=1&column=6" alt="Ahmed Salman Trophies" /></a>
+</div> 
+
 <!-- <a href="https://github.com/AhmedSalman1"><img src="https://github-readme-stats.vercel.app/api?username=AhmedSalman1&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="AhmedSalman1" /></a>
 
 <a href="https://github.com/AhmedSalman1"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedSalman1&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="AhmedSalman1" /></a>
