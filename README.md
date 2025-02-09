@@ -12,7 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/AhmedSalman1">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,docker,redis,aws,jest,git,postman,python,cpp" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,docker,redis,aws,jest,git,postman,python,cpp" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,vite,vercel" alt="My Skills" />
   </a>
 </div>
 
